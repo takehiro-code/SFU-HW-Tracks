@@ -74,6 +74,10 @@ The script `yolo2voc.py` will do the conversion. The following arguments will be
 
 The current `main.py` script measures mAP at IOU threshold of 0.5. Also, this script will print the result in the console. You can modify it to save the result in any other ways.
 
+## Publications
+- SFU-HW-Tracks-v1: Object Tracking Dataset on Raw Video Sequences: https://arxiv.org/abs/2112.14934
+- This data is used in this work: Does Video Compression Impact Tracking Accuracy?: https://arxiv.org/abs/2202.00892
+
 <a name="References"></a>
 ## References
 
